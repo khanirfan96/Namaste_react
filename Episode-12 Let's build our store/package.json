@@ -1,0 +1,41 @@
+{
+  "name": "episode-02",
+  "version": "1.0.0",
+  "description": "Learning React",
+  "main": "App.js",
+  "scripts": {
+    "cleanup": "rm -rf .parcel-cache dist",
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khanirfan96/Namaste_React.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Irfan Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khanirfan96/Namaste_React/issues"
+  },
+  "homepage": "https://github.com/khanirfan96/Namaste_React#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "postcss": "^8.4.33",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.1"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.2.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^9.1.0",
+    "react-router-dom": "^6.21.2"
+  },
+  "browserlist": [
+    " last 2 versions"
+  ]
+}

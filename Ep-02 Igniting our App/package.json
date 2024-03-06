@@ -1,0 +1,32 @@
+{
+  "name": "episode-02",
+  "version": "1.0.0",
+  "description": "Learning React",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khanirfan96/Namaste_React.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Irfan Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khanirfan96/Namaste_React/issues"
+  },
+  "homepage": "https://github.com/khanirfan96/Namaste_React#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserlist": [
+   " last 2 versions"
+  ]
+}
